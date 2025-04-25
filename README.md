@@ -13,7 +13,7 @@ We used survey data (82 responses), exploratory data analysis (EDA), a bit of go
 - Is there a connection between valuing natural products and willingness to pay more?
 - What is the demographic profile of potential early adopters?
 
-
+## Worflow 
 - Data collection via **Google Forms**  
 - Data cleaning and enrichment with derived variables (Project-Module1.ipynb)
 - Statistical testing using **Chi-Square** and **T-tests** (Project-Module1.ipynb)
