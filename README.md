@@ -14,10 +14,10 @@ We used survey data (82 responses), exploratory data analysis (EDA), a bit of go
 - What is the demographic profile of potential early adopters?
 
 
-Data collection via **Google Forms**  
-Data cleaning and enrichment with derived variables (Project-Module1.ipynb)
-Statistical testing using **Chi-Square** and **T-tests** (Project-Module1.ipynb)
-Visualizations with **Tableau Public** + **SLIDES** 
+- Data collection via **Google Forms**  
+- Data cleaning and enrichment with derived variables (Project-Module1.ipynb)
+- Statistical testing using **Chi-Square** and **T-tests** (Project-Module1.ipynb)
+- Visualizations with **Tableau Public** + **SLIDES** 
 
 ## Some insights on the hypothesis:
 
