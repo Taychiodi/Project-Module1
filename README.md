@@ -24,3 +24,5 @@ We used survey data (82 responses), exploratory data analysis (EDA), a bit of go
 - People who consume **performance supplements** (protein powder, creatine, pre-workout, vitamins) are significantly more likely to have tried functional coffee (**p = 0.0137**).
 - A trend was observed where individuals with active lifestyles are more open to supplementation, though not statistically significant.
 - Demographic and lifestyle segmentation helps define a clear target audience, although there was a lot of hypothesis on demographics that were not significant for conclusions on the consuption of the functional coffee.
+
+## Access the slides to deep dive on the project, conclusions and next steps :) 
